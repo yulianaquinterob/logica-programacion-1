@@ -1,5 +1,3 @@
-const prompt = require("prompt-sync")();
-
 let num1 = parseInt(prompt("Ingresa un número: "));
 let num2 = parseInt(prompt("Ingresa un número: "));
 let num3 = parseInt(prompt("Ingresa un número: "));
